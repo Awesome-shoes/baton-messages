@@ -153,13 +153,13 @@ No credentials are hardcoded. Always pass keys via environment variables or a se
 
 ## Milestones
 
-- [x] **Milestone 1** — BatonDocument format spec + Pydantic models
-- [x] **Milestone 2** — Conversation parser (auto-detects Claude, ChatGPT, plain text, JSON, Markdown)
-- [x] **Milestone 3** — Context compiler (heuristics-based: decisions, artifacts, open questions, state)
-- [x] **Milestone 4** — Provider format translators (import/export Anthropic, OpenAI, universal Markdown)
-- [x] **Milestone 5** — Trust and redaction layer (RedactionPolicy, PII scanning, hash-based integrity)
-- [x] **Milestone 6** — CLI (`parse`, `handoff`, `validate`, `pipe`, `info`)
-- [x] **Milestone 7** — Python library (public API, fully typed, documented)
+- [ ] **Milestone 1** — BatonDocument format spec + Pydantic models
+- [ ] **Milestone 2** — Conversation parser (auto-detects Claude, ChatGPT, plain text, JSON, Markdown)
+- [ ] **Milestone 3** — Context compiler (heuristics-based: decisions, artifacts, open questions, state)
+- [ ] **Milestone 4** — Provider format translators (import/export Anthropic, OpenAI, universal Markdown)
+- [ ] **Milestone 5** — Trust and redaction layer (RedactionPolicy, PII scanning, hash-based integrity)
+- [ ] **Milestone 6** — CLI (`parse`, `handoff`, `validate`, `pipe`, `info`)
+- [ ] **Milestone 7** — Python library (public API, fully typed, documented)
 - [ ] **Milestone 8** — Demo + README (end-to-end walkthrough, BATON-SPEC.md)
 
 ---
