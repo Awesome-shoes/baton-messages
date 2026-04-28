@@ -2,6 +2,8 @@
 
 > A structured interchange format and CLI for passing context between AI agents across providers.
 
+⚠️ **Status: Early development.** This is a protocol proposal and spec. Code is in active development — contributions welcome.
+
 ---
 
 ## What is Baton?
